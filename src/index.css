@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body{
+
+  background-image: url('/bg.jpg');
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.header-bg{
+  background-image: url('/stars.png');
+  background-position: center;
+  background-size: cover;
+}
