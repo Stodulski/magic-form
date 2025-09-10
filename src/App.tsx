@@ -53,7 +53,7 @@ function App() {
   }
 
   return (
-    <main className="">
+    <main className="max-w-full">
       <header className="bg-[#0c5aa4] h-[120px] header-bg flex justify-center items-center">
         <img src="/logo magic.png" loading="eager" alt="" className="w-[180px] bg-[#0c5aa4]" />
       </header>
